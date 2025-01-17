@@ -24,7 +24,7 @@ uso de hooks, consumo de API, rutas entre otros. Este proyecto utiliza un servid
 # Creacion del proyecto
 - Ejecutar el comando:
   
-    npm create vite@latest
+  npm create vite@latest
 
 - Nombre:
   
