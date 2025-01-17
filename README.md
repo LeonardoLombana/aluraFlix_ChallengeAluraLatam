@@ -17,7 +17,6 @@ uso de hooks, consumo de API, rutas entre otros. Este proyecto utiliza un servid
 - Actualizar información de videos
 - Eliminar videos
 
-
 > [!TIP]
 > Estos son los requisitos para poder ejecutar la app
 
@@ -57,14 +56,13 @@ uso de hooks, consumo de API, rutas entre otros. Este proyecto utiliza un servid
 - Git
 - GitHub
 
-
 > [!IMPORTANT]
 > Diseños:
 - Los diseños de la aplicación fueron generados por la comunidad de alura latam como guia para la presentación del proyecto final.
 
 > [!IMPORTANT]
 > Estado del proyecto
-> Completado
+- Completado
 
 > [!NOTE]
 > Presentado por:
