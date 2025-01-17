@@ -55,8 +55,7 @@ Inicia el proyecto en http://localhost:5173/
 
 > [!IMPORTANT]
 > Diseños:
-
-# Los diseños de la aplicación fueron generados por la comunidad de alura latam como guia para la presentación del proyecto final.
+- Los diseños de la aplicación fueron generados por la comunidad de alura latam como guia para la presentación del proyecto final.
 
 > [!IMPORTANT]
 > Estado del proyecto
