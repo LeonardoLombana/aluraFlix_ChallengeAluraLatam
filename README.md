@@ -73,3 +73,9 @@ uso de hooks, consumo de API, rutas entre otros. Este proyecto utiliza un servid
 
 ## Proyecto parte de la guia de estudio React G7 - ONE
 ## Grupo 7 bootcamp Especialización Front-End 
+
+## Creación de proyecto
+Ejecutar el comando:
+
+    npm create vite@latest
+
