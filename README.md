@@ -67,7 +67,7 @@ uso de hooks, consumo de API, rutas entre otros. Este proyecto utiliza un servid
 ## Completado
 
 > [!NOTE]
-## Presentado por:
+> Presentado por:
 - Leonardo Lombana Contento
 
 ## Proyecto parte de la guia de estudio React G7 - ONE
