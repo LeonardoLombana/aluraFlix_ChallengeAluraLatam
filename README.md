@@ -64,9 +64,7 @@ uso de hooks, consumo de API, rutas entre otros. Este proyecto utiliza un servid
 
 > [!IMPORTANT]
 > Estado del proyecto
-
-## Estado:
-- Completado
+#Completado
 
 ## Presentado por:
 - Leonardo Lombana Contento
