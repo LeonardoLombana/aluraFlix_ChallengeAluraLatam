@@ -42,7 +42,7 @@ npm start
 Inicia el proyecto en http://localhost:5173/
 
 # Tecnologias usadas:
-- pReact + Vite
+- React + Vite
 - JavaScript
 
 # Tecnologias secundarias:
