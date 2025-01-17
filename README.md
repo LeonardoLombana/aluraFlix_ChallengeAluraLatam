@@ -23,21 +23,26 @@ uso de hooks, consumo de API, rutas entre otros. Este proyecto utiliza un servid
 
 # Creacion del proyecto
 - Ejecutar el comando:
+  
     npm create vite@latest
 
 - Nombre:
+  
     aluraFlix_ChallengeAluraLatam
 
 - Seleccionar:
+  
     React
     JavaScript
 
 - Ejecutar:
+  
     cd aluraFlix_ChallengeAluraLatam
     npm install
     npm rin dev
 
 - Se ejecuta el proyecto con:
+  
     npm start
     Inicia el proyecto en http://localhost:5173/
 
